@@ -1,0 +1,18 @@
+git init (para inicializar el directorio de trabajo) proyecto nuevo
+git status ( para ver que archivos se han hecho cambios)
+git add <file> (para agregar los nuevos cambios al area de trabajo )
+git commit ( para crear la copia de lo que se ha hecho)
+git push ( para subierlo al directorio remoto)
+git pull (trae los cambio que han hecho los demas desarrolladores )
+git clone ( hacer un acopia desde el servidor donde está el codigo hacia el pc donde se va a trabajar)
+git commit -m "mensaje del commit" (para agregar un mensaje al commit )
+git commit --amend -m "Este es el mensaje correcto" (para corrgir el mensaje del ultimo commit
+git clone <direccion del repositorio de gir>
+git reset --hard HEAD~1 (elimina la version actual y regresa a la anterior)
+
+
+
+
+
+
+
